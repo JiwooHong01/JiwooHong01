@@ -4,8 +4,12 @@
 **JiwooHong01/JiwooHong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+My previous GitHub account was "jiwoooo01," which I used prior to July 2023.
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on agenticRAG chatbot.
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
