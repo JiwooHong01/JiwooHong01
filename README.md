@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My previous GitHub account was <a href="https://github.com/JiwooHong729">JiwooHong729</a>  which I used prior to July 2023.(Nothing left!)
+I used different account prior to July 2023.(Nothing left!)
 
 
 - 🔭 I’m currently working on agenticRAG chatbot.
