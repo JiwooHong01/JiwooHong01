@@ -9,7 +9,7 @@ I used different account prior to July 2023.(Nothing left!)
 
 
 - 🔭 I’m currently working on an agenticRAG chatbot — it’s in a private repo because of potential legal concerns.
-- ⭐️ My github blog : [click!](jiwoohong01.github.io)
+- ⭐️ My github blog : [click!](https://jiwoohong01.github.io)
 - 🌱 My google site : [click!](https://sites.google.com/view/jiwoo-hong/home)
 <!--
 - 🌱 I’m currently learning ...
