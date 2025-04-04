@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 I used different account prior to July 2023.(Nothing left!)
 
 
-- 🔭 I’m currently working on agenticRAG chatbot.
+- 🔭 I’m currently working on an agenticRAG chatbot — it’s in a private repo because of potential legal concerns.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
